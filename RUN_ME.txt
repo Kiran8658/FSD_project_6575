@@ -1,0 +1,31 @@
+# 🎬 HOW TO RUN YOUR BACKEND - SIMPLE VERSION
+
+## Copy This Command:
+
+```bash
+cd /Users/kiran/2_2sem/fedf_project/fedf_backend_springboot && mvn clean install && mvn spring-boot:run
+```
+
+Paste it in your terminal and hit Enter.
+
+**That's all!** ✅
+
+---
+
+## First Time? Install This First:
+
+```bash
+brew install openjdk@17 maven
+brew services start mongodb-community
+```
+
+Then run the command above.
+
+---
+
+## That's It!
+
+Backend runs on: **http://localhost:8080**
+
+Done! 🎉
+
