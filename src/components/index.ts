@@ -1,6 +1,0 @@
-export { Navbar } from './Navbar'
-export { Sidebar } from './Sidebar'
-export { ActivityChart } from './ActivityChart'
-export { ConsistencyCard } from './ConsistencyCard'
-export { SkillChart } from './SkillChart'
-export { InsightCard } from './InsightCard'
